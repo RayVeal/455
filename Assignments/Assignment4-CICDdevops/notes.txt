@@ -1,0 +1,2 @@
+for the pytest container, instead of using -p, try --network="host"
+for the service container, setting detach to true
